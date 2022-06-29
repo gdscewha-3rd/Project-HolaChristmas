@@ -1,5 +1,6 @@
 
 # 🎄 Hola Christmas!
+![hola](https://user-images.githubusercontent.com/61787171/176457880-21bb5624-f227-46b4-b7e5-f984412d3bcc.PNG)
 
 ## 게임 줄거리 
 
