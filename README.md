@@ -8,5 +8,4 @@
 ## 게임 방식
 - 플레이어가 추측을 통해 비밀장소를 찾아 사탕을 찾는 방식입니다.
 
-##기술 스택 
-![unity](https://user-images.githubusercontent.com/61787171/176457237-fdf051a5-217f-451b-9dc3-a857cd3dccbf.svg)
+## 기술 스택 
